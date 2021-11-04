@@ -11,4 +11,4 @@
 - BroadCast Adresse
 
 **Loesung:**
-[Loesung zu Uebungsaufgabe2](https://github.com/ppedvAG/KW44-NetzwerkTCPIP/blob/main/WhiteBoard/Tag1-IP-Uebung2-Loesung.png "Loesung")
+[Loesung zu Uebungsaufgabe2](https://github.com/ppedvAG/KW44-NetzwerkTCPIP/blob/master/WhiteBoard/Tag1-IP-Uebung2-Loesung.png "Loesung")
