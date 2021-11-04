@@ -11,4 +11,4 @@
 - NetzId 1. und 4. Subnetz
 
 **Loesung:**
-[Loesung zu Uebungsaufgabe3](https://github.com/ppedvAG/KW44-NetzwerkTCPIP/blob/master/Notizen/Tag1-IP-Uebung3-Loesung.png "Loesung")
+[Loesung zu Uebungsaufgabe3](https://github.com/ppedvAG/KW44-NetzwerkTCPIP/blob/master/WhiteBoard/Tag1-IP-Uebung3-Loesung.png "Loesung")
