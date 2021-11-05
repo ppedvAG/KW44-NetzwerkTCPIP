@@ -15,5 +15,8 @@ Kursbegleitende Informationen zum NetzwerkTCPIP Kurs der ppedv AG
 - DHCP
 - NAT
 - VPN 
+- Radius
+- Routing
+- Proxy
 
 
