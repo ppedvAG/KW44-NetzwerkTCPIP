@@ -9,5 +9,11 @@ Kursbegleitende Informationen zum NetzwerkTCPIP Kurs der ppedv AG
 - Topologien
 - Routing 
 - IP
+- IPv4 Subneting
+- IPv6
+- DNS
+- DHCP
+- NAT
+- VPN 
 
 
